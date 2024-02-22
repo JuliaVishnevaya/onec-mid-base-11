@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8a306ebf-f34c-49dc-a4bc-82159a3bb184">
+  <name>ДорабКЛ_ДоработкаФормыДокумента</name>
+  <synonym>
+    <key>ru</key>
+    <value>ДорабКЛ доработка формы документа</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+</mdclass:CommonModule>
